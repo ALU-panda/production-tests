@@ -35,7 +35,7 @@ for n in range(len(output_pins_B)):
 eepfile_path = '/home/analog/hats/eep-files'
 eepromdump_path = '/home/analog/hats/eeprom-dump'
 eepromutils_path = '/home/analog/hats/eepromutils'
-eepsettings_file = '/home/analog/production-tests/pmd_rpi_intz_eeprom_settings.txt'
+eepsettings_file = '/home/analog/production-tests/pmd-rpi-intz-eeprom-settings.txt'
 
 # Creates directories for the *.eep files if they do not already exist:
 if path.exists(eepfile_path) == False:
