@@ -28,7 +28,7 @@ product_ver 0x0001
 vendor "Analog Devices, Inc."
 
 # ASCII product string (max 255 characters)
-product "Raspberry Pi to Pmod/QuikEval/PSM Adapter"
+product "PMD-RPI-INTZ"
 
 # Custom binary data
 custom_data
